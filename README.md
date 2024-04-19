@@ -8,7 +8,7 @@
 4) | Windows | Linux |
    | ------- | ----- |
    | [Preloader drivers](https://drive.google.com/file/d/1HTXcYg5OB6oWhr6Fe-DeIXqv7P0olk60/view?usp=sharing) | [SP Flash tool v6](https://spflashtools.com/linux/sp-flash-tool-v6-2124-for-linux) |
-   | [Tiny Fastboot script](https://mirrors.lolinet.com/software/windows/TinyFastbootScript/) | [Fastboot flashing script]() |
+   | [Tiny Fastboot script](https://mirrors.lolinet.com/software/windows/TinyFastbootScript/) | [Fastboot flashing script](https://github.com/not-ayan/motorola_g54_unbrick_guide/blob/main/flashfile.sh) |
    | [Fastboot drivers](https://dl.google.com/android/repository/usb_driver_r13-windows.zip) | |
 >Additionally all the required files are also present in the repo.
 
