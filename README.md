@@ -53,8 +53,8 @@ bash SPFlashToolV6.sh
 1) Unzip Motorola firmware zip
 2) Unzip this tool: Tiny-Fastboot-Script.**.zip, then you can find [flash.bat] and [tools folder].
 3) Move [flash.bat] + [tools folder] to firmware's unzipped folder.
-![Fastboot option](/assets/)
-![Flash option](/assets/)
+![Fastboot option](/assets/fastboot_options.png)
+![Flash option](/assets/flash_options.png)
 4) Run flash.bat, choose the necessary fastboot option (if you are confused just choose recommended), choose the option you want to use .
 
 ### Linux users
@@ -64,3 +64,5 @@ bash SPFlashToolV6.sh
 ```
 bash flashfile.sh
 ```
+
+>If you need help with any errors feel free to contact [me](t.me/not_ayan99) on telegram.
