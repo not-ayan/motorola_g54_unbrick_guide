@@ -1,0 +1,8 @@
+1. Plug the device in that you need the drivers for - plug it in with USB Debugging on.
+2. Click on the start menu if you have Windows 7 or Vista, then type devmgmt.msc and press enter. If you have Windows XP, then click Run, then type devmgmt.msc
+3. There should be at least one driver listed where there is a yellow exclamation point. Right click on that Driver, then click 'Properties'. 
+4. Make sure you are on the "Driver" tab, then click on 'Update Driver'.
+5. Choose "Browse my computer for driver software" (may vary for different versions of Windows). 
+6. Choose the folder that you downloaded the drivers to (they must be unzipped.)
+
+If that doesn't work - try rebooting your computer. If it still doesn't work, not much I can do, you would have to use the SDK manager.

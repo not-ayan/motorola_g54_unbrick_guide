@@ -1,0 +1,12 @@
+The all in one unbrick guide for Motorola G54 5G
+Note: Ths guide is specifically made for motorola g54 5g however (although untested) the download_auth file might work for other mt6855 devices please replace the images with the right ones for your devices along with the right scatter file before trying . I dont take responsibility for anything that happends to your device.
+
+Pre-requisites:
+1) A brick (pun intended)
+2) Windows:
+- Preloader drivers
+- Fastboot drivers
+- Unbrick script + files ( Thanks to Shoobee for this)
+Linux:
+- SP Flash tool v6
+- Unbrick script + f
