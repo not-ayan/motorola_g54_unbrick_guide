@@ -4,7 +4,7 @@
 ## Pre-requisites:
 1) A brick (pun intended)
 2) Blankflash (Thanks to shoobee for the files)
-3) Firmware: [Lolinet](https://mirrors.lolinet.com/firmware/lenomola/cancunf/official/RETIN/XT2343-5_CANCUNF_RETIN_14_U1TD34.94-12-7_subsidy-DEFAULT_regulatory-DEFAULT_cid50_CFC.xml.zip) | [Onedrive](https://vzf6c-my.sharepoint.com/:u:/g/personal/notayan_vzf6c_onmicrosoft_com/EXVG8W9gzW1ItYI512CpmLwBLAtioKmLz9kM845rdl0k8w?download=1)
+3) Firmware:Use country specific firmware 
 4) | Windows | Linux |
    | ------- | ----- |
    | [Preloader drivers](https://drive.google.com/file/d/1HTXcYg5OB6oWhr6Fe-DeIXqv7P0olk60/view?usp=sharing) | [SP Flash tool v6](https://spflashtools.com/linux/sp-flash-tool-v6-2124-for-linux) |
